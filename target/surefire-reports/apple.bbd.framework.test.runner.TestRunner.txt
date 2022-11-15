@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: apple.bbd.framework.test.runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 7.16 s <<< FAILURE! - in apple.bbd.framework.test.runner.TestRunner
+Retail Account Page.Verify User can update Profile Information  Time elapsed: 6.383 s  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:87)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at org.junit.Assert.assertTrue(Assert.java:53)
+	at apple.bbd.framework.test.steps.SignInSteps.user_should_be_logged_in_into_account(SignInSteps.java:52)
+	at ✽.User should be logged in into Account(file:///C:/Users/Dell/eclipse-workspace/apple.bbd.framework/src/test/resources/Features/account.feature:8)
+

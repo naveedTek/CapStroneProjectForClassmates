@@ -1,0 +1,7 @@
+apple\bbd\framework\test\steps\SignInSteps.class
+apple\bbd\framework\test\steps\AccountSteps.class
+apple\bbd\framework\test\runner\TestRunner.class
+apple\bbd\framework\pages\SignInPages.class
+apple\bbd\framework\pages\AcountPage.class
+apple\bbd\framework\pages\POMFactory.class
+apple\bbd\framework\test\base\BaseUi.class
