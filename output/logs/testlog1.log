@@ -3030,3 +3030,58 @@
 2022-11-15 00:25:57,938 [main] INFO Logger_files - User wrote Review
 2022-11-15 00:25:58,060 [main] INFO Logger_files - User Submited the review 
 2022-11-15 00:25:58,879 [main] INFO Logger_files - review message displayed saccessfully>>>as Your review was added successfully
+2022-11-15 18:18:53,424 [main] INFO Logger_files - React App is equal to React App
+2022-11-15 18:18:53,597 [main] INFO Logger_files - user clicked on All Option Button
+2022-11-15 18:18:53,939 [main] INFO Logger_files - user clicked on department Electronics option
+2022-11-15 18:18:58,978 [main] INFO Logger_files - React App is equal to React App
+2022-11-15 18:18:59,145 [main] INFO Logger_files - user clicked on All Option Button
+2022-11-15 18:18:59,578 [main] INFO Logger_files - user clicked on department Computers option
+2022-11-15 18:19:03,725 [main] INFO Logger_files - React App is equal to React App
+2022-11-15 18:19:03,879 [main] INFO Logger_files - user clicked on All Option Button
+2022-11-15 18:19:04,322 [main] INFO Logger_files - user clicked on department Sports option
+2022-11-15 18:19:11,281 [main] INFO Logger_files - React App is equal to React App
+2022-11-15 18:19:11,450 [main] INFO Logger_files - user clicked on All Option Button
+2022-11-15 18:23:55,299 [main] INFO Logger_files - React App is equal to React App
+2022-11-15 18:23:55,463 [main] INFO Logger_files - user clicked on All Option Button
+2022-11-15 18:23:55,732 [main] INFO Logger_files - user clicked on department Electronics option
+2022-11-15 18:23:59,707 [main] INFO Logger_files - React App is equal to React App
+2022-11-15 18:23:59,863 [main] INFO Logger_files - user clicked on All Option Button
+2022-11-15 18:24:00,184 [main] INFO Logger_files - user clicked on department Computers option
+2022-11-15 18:24:03,892 [main] INFO Logger_files - React App is equal to React App
+2022-11-15 18:24:04,036 [main] INFO Logger_files - user clicked on All Option Button
+2022-11-15 18:24:04,362 [main] INFO Logger_files - user clicked on department Sports option
+2022-11-15 18:24:09,896 [main] INFO Logger_files - React App is equal to React App
+2022-11-15 18:24:10,064 [main] INFO Logger_files - user clicked on All Option Button
+2022-11-15 18:27:17,683 [main] INFO Logger_files - React App is equal to React App
+2022-11-15 18:27:17,857 [main] INFO Logger_files - user clicked on All Option Button
+2022-11-15 18:27:20,958 [main] INFO Logger_files - user clicked on department Electronics option
+2022-11-15 18:27:28,195 [main] INFO Logger_files - React App is equal to React App
+2022-11-15 18:27:28,341 [main] INFO Logger_files - user clicked on All Option Button
+2022-11-15 18:27:31,442 [main] INFO Logger_files - user clicked on department Computers option
+2022-11-15 18:27:38,533 [main] INFO Logger_files - React App is equal to React App
+2022-11-15 18:27:38,674 [main] INFO Logger_files - user clicked on All Option Button
+2022-11-15 18:27:41,837 [main] INFO Logger_files - user clicked on department Sports option
+2022-11-15 18:27:48,847 [main] INFO Logger_files - React App is equal to React App
+2022-11-15 18:27:49,016 [main] INFO Logger_files - user clicked on All Option Button
+2022-11-15 23:00:25,924 [main] INFO Logger_files - React App is equal to React App
+2022-11-15 23:00:26,141 [main] INFO Logger_files - User clicked on SignIn Button
+2022-11-15 23:00:26,484 [main] INFO Logger_files - User entered bsxy@tekschool.us and password Test@11021
+2022-11-15 23:00:26,566 [main] INFO Logger_files - User clicked on login button
+2022-11-15 23:00:27,262 [main] INFO Logger_files - the category has been changed to Smart Home
+2022-11-15 23:00:30,394 [main] INFO Logger_files - User searched for <<kasa outdoor smart plug>>
+2022-11-15 23:00:33,483 [main] INFO Logger_files - User clicked on search button
+2022-11-15 23:00:36,602 [main] INFO Logger_files - User clicked on item 
+2022-11-15 23:00:39,690 [main] INFO Logger_files - User selected quantity of the item
+2022-11-15 23:00:42,775 [main] INFO Logger_files - User clicked on add to cart btn
+2022-11-15 23:00:45,800 [main] INFO Logger_files - 2 as asked User successfully added 2
+2022-11-15 23:00:48,919 [main] INFO Logger_files - User clicked on Cart Option
+2022-11-15 23:00:52,035 [main] INFO Logger_files - User clicked on proceed cheackout button
+2022-11-15 23:00:55,138 [main] INFO Logger_files - User clicked on add address link
+2022-11-15 23:01:02,187 [main] INFO Logger_files - user clicked on add address button
+2022-11-15 23:01:05,275 [main] INFO Logger_files - User clicked on Add credit btn
+2022-11-15 23:01:08,788 [main] INFO Logger_files - User filled up creditCard Informations
+2022-11-15 23:01:08,876 [main] INFO Logger_files - user clicked on submit payment method Button
+2022-12-01 22:11:49,288 [main] INFO Logger_files - React App is equal to React App
+2022-12-01 22:11:49,450 [main] INFO Logger_files - User clicked on SignIn Button
+2022-12-01 22:11:49,699 [main] INFO Logger_files - User entered bsxy@tekschool.us and password Test@11021
+2022-12-01 22:11:49,783 [main] INFO Logger_files - User clicked on login button

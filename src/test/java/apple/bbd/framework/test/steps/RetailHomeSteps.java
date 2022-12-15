@@ -39,9 +39,10 @@ public class RetailHomeSteps extends CommonUtility {
 
 	}
 
-	String angel;
+	String department;
 
 	@When("User on {string}")
+	
 	public String userOnElectronics(String department) {
 
 		switch (department) {
@@ -65,7 +66,7 @@ public class RetailHomeSteps extends CommonUtility {
 
 		}
 
-		return this.angel = department;
+		return this.department = department;
 
 	}
 
@@ -73,7 +74,7 @@ public class RetailHomeSteps extends CommonUtility {
 	public void belowOptionsArePresentInDepartment(DataTable dataTable) {
 		List<List<String>> department = dataTable.asLists();
 
-		switch (this.angel) {
+		switch (this.department) {
 		case "Electronics":
 			click(factory.homePage().elictronics);
 			String video = getText(factory.homePage().VideoGames);

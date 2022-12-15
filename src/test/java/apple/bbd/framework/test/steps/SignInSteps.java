@@ -49,13 +49,11 @@ public class SignInSteps extends CommonUtility {
 	@Then("User should be logged in into Account")
 	public void user_should_be_logged_in_into_account() {
 		click(factory.signInPage().accountLogo);
-		if(isElementDisplayed(factory.signInPage().profileImage)){
-			if(isElementDisplayed(factory.signInPage().creditCardsImg)){
-				logger.info("User has successfuly loged in and clicked on account btn and navigated to accoutPage");
-			}
-		}
-//		Assert.assertTrue(isElementDisplayed(factory.signInPage().profileImage));
-//		Assert.assertTrue(isElementDisplayed(factory.signInPage().creditCardsImg));
+		waitTillPresence(factory.signInPage().profileImage);
+		waitTillPresence(factory.signInPage().creditCardsImg);
+		Assert.assertTrue(isElementDisplayed(factory.signInPage().profileImage));
+		Assert.assertTrue(isElementDisplayed(factory.signInPage().creditCardsImg));
+		logger.info("User has successfuly loged in and clicked on account btn and navigated to accoutPage");
 		
 
 	}

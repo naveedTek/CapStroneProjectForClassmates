@@ -4,7 +4,7 @@ Feature: Retail Account Page
   Background: 
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'bsxy@tekschool.us' and password 'Test@11021'
+    And User enter email 'naveed@Tek.us' and password 'Test@12345'
     And User click on login button
     And User should be logged in into Account
     When User click on Account option

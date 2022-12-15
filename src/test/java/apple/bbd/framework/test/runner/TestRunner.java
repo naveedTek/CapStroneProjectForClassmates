@@ -1,6 +1,6 @@
 package apple.bbd.framework.test.runner;
 
-import io.cucumber.junit.Cucumber;
+import io.cucumber.junit.Cucumber; 
 import io.cucumber.junit.CucumberOptions;
 import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 
@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)	
 @CucumberOptions(
 	
-	tags = "@reviewOrder",
+	tags = "",
 	features = "src/test/resources/Features",
 	glue = "apple.bbd.framework.test",
 	dryRun = false,
